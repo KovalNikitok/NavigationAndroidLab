@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Start fragment</string>
+    <string name="sec_fragment">First root fragment</string>
+    <string name="third_fragment">Second fragment of first root</string>
+    <string name="fourth_fragment">Second root fragment</string>
+    <string name="second_root_text">Second root</string>
+    <string name="first_root_text">First  root</string>
+    <string name="back_text">Back</string>
+    <string name="next_text">Next</string>
+
+</resources>
